@@ -1,0 +1,10 @@
+{
+ "tipo_llamada": "venta",
+ "oferta": "tenemos una oferta de fibra y móvil por 35 euros al mes",
+ "cita_rechazo": "No me interesa, gracias",
+ "reaccion": "se_rinde",
+ "intentos": [],
+ "pide_no_llamar": "",
+ "alertas": {"promesa": "", "datos_de_tercero": "", "comunicacion_externa": ""},
+ "resumen": "El asesor ofrece fibra y móvil. Tras el primer rechazo se despide sin otro argumento."
+}

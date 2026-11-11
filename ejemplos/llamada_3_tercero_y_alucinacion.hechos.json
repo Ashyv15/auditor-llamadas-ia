@@ -1,0 +1,14 @@
+{
+ "tipo_llamada": "venta",
+ "oferta": "la oferta de fibra",
+ "cita_rechazo": "",
+ "reaccion": "sin_rechazo",
+ "intentos": [],
+ "pide_no_llamar": "",
+ "alertas": {
+  "promesa": "tienes precio fijo para siempre, sin subidas",
+  "datos_de_tercero": "",
+  "comunicacion_externa": "te escribo luego desde mi WhatsApp personal"
+ },
+ "resumen": "El cliente tiene una deuda y el asesor propone tramitar a nombre de otra persona."
+}

@@ -1,0 +1,7 @@
+[00:00] Hola, le llamo de TelcoDemo por la oferta de fibra.
+[00:05] Sí, pero a mí no me aprueban nada, tengo una deuda.
+[00:11] No pasa nada, lo ponemos a nombre de tu marido y luego lo cambiamos.
+[00:17] Pero él no está ahora.
+[00:20] Dame su DNI, que es 12345678Z, y su correo pepe@example.com, y lo dejamos hecho.
+[00:30] Bueno, vale.
+[00:33] Además tienes precio fijo para siempre, sin subidas.

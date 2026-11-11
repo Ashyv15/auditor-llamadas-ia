@@ -1,0 +1,14 @@
+# Lista blanca: se ignora todo y solo se sube lo que aparece con «!». Así ningún audio o dato real entra por descuido.
+*
+!.gitignore
+!README.md
+!LICENSE
+!requirements.txt
+!demo.py
+!auditor/
+!auditor/*.py
+!tests/
+!tests/*.py
+!ejemplos/
+!ejemplos/llamada_*.txt
+!ejemplos/llamada_*.hechos.json

@@ -1,0 +1,13 @@
+{
+ "tipo_llamada": "venta",
+ "oferta": "con nosotros le quedaría en 40 euros al mes con las mismas líneas",
+ "cita_rechazo": "No, ahora mismo no quiero cambiar",
+ "reaccion": "se_rinde",
+ "intentos": [
+  "Son 20 euros menos cada mes, 240 euros al año, y la instalación es gratis",
+  "nosotros gestionamos la portabilidad y no se queda sin servicio"
+ ],
+ "pide_no_llamar": "",
+ "alertas": {"promesa": "", "datos_de_tercero": "", "comunicacion_externa": ""},
+ "resumen": "El asesor sondea, ofrece un ahorro y responde a dos objeciones. El cliente pide información."
+}

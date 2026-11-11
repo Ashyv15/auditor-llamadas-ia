@@ -1,0 +1,6 @@
+[00:00] Hola, buenas tardes, le llamo de TelcoDemo, me llamo Andrés.
+[00:05] Hola, dígame.
+[00:08] Le llamo porque tenemos una oferta de fibra y móvil por 35 euros al mes.
+[00:15] No me interesa, gracias.
+[00:18] Vale, perfecto, que tenga buena tarde.
+[00:21] Igualmente, adiós.

@@ -1,0 +1,2 @@
+# Solo para transcribir audios propios. Las pruebas y la demo no necesitan dependencias.
+faster-whisper>=1.0

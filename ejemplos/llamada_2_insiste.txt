@@ -1,0 +1,11 @@
+[00:00] Buenos días, le llamo de TelcoDemo, soy Lucía, ¿tiene un minuto?
+[00:06] Sí, dime.
+[00:09] ¿Con qué compañía tiene ahora la fibra y cuántas líneas móviles?
+[00:14] Una línea y la fibra, pago unos 60 euros.
+[00:20] Pues con nosotros le quedaría en 40 euros al mes con las mismas líneas.
+[00:27] No, ahora mismo no quiero cambiar.
+[00:31] Lo entiendo. Son 20 euros menos cada mes, 240 euros al año, y la instalación es gratis.
+[00:40] Ya, pero me da pereza el cambio.
+[00:44] No tiene que hacer nada usted, nosotros gestionamos la portabilidad y no se queda sin servicio.
+[00:52] Bueno, mándame la información y lo miro.
+[00:56] Perfecto, se la envío por el canal oficial y le llamo el jueves.
